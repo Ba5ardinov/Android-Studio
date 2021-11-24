@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps PR8</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="edit_type_map">Изменить вид карты</string>
+</resources>
